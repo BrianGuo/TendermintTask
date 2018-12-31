@@ -1,0 +1,5 @@
+assumptions
+
+strings in utf-8 encoding
+no equals signs in the names of the cities (could resolve this later by checking for last equals)
+no duplicate city definitions (can fix)
